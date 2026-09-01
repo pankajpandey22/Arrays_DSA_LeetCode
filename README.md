@@ -35,8 +35,8 @@ Personal repository of solved LeetCode problems in Java, focusing on optimal tim
 ## 📊 Solved Problems Tracker
 
 | # | Problem Name | Difficulty | Time Complexity | Space Complexity | Solution Link |
-| :---: | :--- | :---: | :--- | :---: |
-| 0001 | Two Sum | O(N) | O(N) | [Java](./Two_Sum.java) |
-| 0026 | Remove Duplicates from Sorted Array | O(N) | O(1) | [Java](./Remove_Duplicates_from_Sorted_Array.java) |
-| 0189 | Rotate Array | O(N) | O(1) | [Java](./Rotate_Array.java) |
-| 1752 | Check if Array Is Sorted and Rotated | O(N) | O(1) | [Java](./Check_if_Array_is_Sorted_and_Rotated.java) |
+| :---: | :--- | :---: | :--- | :---: | :---: |
+| 0001 | Two Sum | Easy | O(N) | O(N) | [Java](./Two_Sum.java) |
+| 0026 | Remove Duplicates from Sorted Array | Easy | O(N) | O(1) | [Java](./Remove_Duplicates_from_Sorted_Array.java) |
+| 0189 | Rotate Array | Easy | O(N) | O(1) | [Java](./Rotate_Array.java) |
+| 1752 | Check if Array Is Sorted and Rotated | Easy | O(N) | O(1) | [Java](./Check_if_Array_is_Sorted_and_Rotated.java) |
