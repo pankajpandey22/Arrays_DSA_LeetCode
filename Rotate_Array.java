@@ -4,11 +4,15 @@ class Solution {
         k %= n;
         if (k == 0) return;
 
-        int[] temp = new int[k];
-        System.arraycopy(nums, n - k, temp, 0, k);
-        
-        System.arraycopy(nums, 0, nums, k, n - k);
-        
-        System.arraycopy(temp, 0, nums, 0, k);
+        int[] temp = Arrays.copyOfRange(nums, n-(k), n);
+
+        for (int i=n-(k+1); i>=0; i--){
+            nums[i+k] = nums[i];
+        }
+
+        for (int i=0; i<k; i++) {
+            nums[i] = temp[i];
+        }
+        return;
     }
 }
