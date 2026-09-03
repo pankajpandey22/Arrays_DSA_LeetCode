@@ -40,3 +40,4 @@ Personal repository of solved LeetCode problems in Java, focusing on optimal tim
 | 0026 | Remove Duplicates from Sorted Array | Easy | O(N) | O(1) | [Java](./Remove_Duplicates_from_Sorted_Array.java) |
 | 0189 | Rotate Array | Easy | O(N) | O(1) | [Java](./Rotate_Array.java) |
 | 1752 | Check if Array Is Sorted and Rotated | Easy | O(N) | O(1) | [Java](./Check_if_Array_is_Sorted_and_Rotated.java) |
+| 0283 | Move Zeros | Easy | O(N) | O(1) | [Java](./Move_Zeros.java) |
